@@ -7,12 +7,7 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-  <nav>
-  <ul>
-    <li>Home</li>
-    <li>About</li>
-  </ul>
-  </nav>
+  <h1>Welcome to the Main Page</h1>
   )
 }
 
