@@ -7,7 +7,10 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-  <h1>Welcome to the Main Page</h1>
+    <>
+    <h1>Welcome to the Main Page</h1>
+    </>
+  
   )
 }
 
