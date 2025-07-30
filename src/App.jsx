@@ -7,10 +7,12 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <>  
-     <h1>Hello Vite + React!</h1>
-     <h2>Author: Bharadwaj Rahul</h2>
-    </>
+  <nav>
+  <ul>
+    <li>Home</li>
+    <li>About</li>
+  </ul>
+  </nav>
   )
 }
 
